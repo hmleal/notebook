@@ -14,6 +14,11 @@ Se você tiver que escolher apenas um livro dessa lista, que seja:
 
 - [How to read a book - J. Adler](https://www.amazon.co.uk/How-Read-Book-Intelligent-Touchstone/dp/0671212095/ref=sr_1_1?ie=UTF8&qid=1551784658&sr=8-1&keywords=how+to+read+a+book)
 
+### Política/Brasil
+
+- [Pare de Acreditar no Governo - Bruno Garschagen](https://www.amazon.com.br/Pare-Acreditar-Governo-Brasileiros-Pol%C3%ADticos/dp/8501103624)
+- [Por que o Brasil É Um País Atrasado? - Luiz Philippe De Orleans E Bragança](https://www.amazon.com.br/Por-que-Brasil-Pa%C3%ADs-Atrasado/dp/8581638643)
+
 ## Podcasts
 
 - [Os Náufragos](https://soundcloud.com/osnaufragospodcast/)
@@ -32,7 +37,7 @@ Se você tiver que escolher apenas um livro dessa lista, que seja:
 
 ### [Olavo de Carvalho](#olavo)
 
-Antes de sair ai reclamando do Olavo aqui nessa lista:
+Antes de reclamar do Olavo aqui na lista o mínimo que você precisa ler/ouvir:
   
 - [O mínimo que você precisa saber para não ser um imbecil juvenil](https://soundcloud.com/osnaufragospodcast/podcast-55-o-minimo-que-voce-precisa-saber-para-nao-ser-um-imbecil-juvenil)
 - [O imbecil juvenil](http://www.olavodecarvalho.org/textos/juvenil.htm)
