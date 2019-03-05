@@ -12,7 +12,7 @@
 
 Se você tiver que escolher apenas um livro dessa lista, que seja:
 
-- [How to read a book - J. Adler](#books)
+- [How to read a book - J. Adler](https://www.amazon.co.uk/How-Read-Book-Intelligent-Touchstone/dp/0671212095/ref=sr_1_1?ie=UTF8&qid=1551784658&sr=8-1&keywords=how+to+read+a+book)
 
 ## Podcasts
 
