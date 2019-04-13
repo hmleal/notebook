@@ -6,8 +6,10 @@
   - [Livros](#livros)
     - [Política/Brasil](#pol%C3%ADticabrasil)
   - [Podcasts](#podcasts)
+    - [Os Náufragos](#os-n%C3%A1ufragos)
   - [Documentários](#document%C3%A1rios)
     - [Brasil Paralelo a última cruzada](#brasil-paralelo-a-%C3%BAltima-cruzada)
+    - [1964: O Brasil entre armas e livros (Filme completo)](#1964-o-brasil-entre-armas-e-livros-filme-completo)
     - [O mal da pornografia e da masturbação](#o-mal-da-pornografia-e-da-masturba%C3%A7%C3%A3o)
   - [Filósofos](#fil%C3%B3sofos)
     - [Olavo de Carvalho](#olavo-de-carvalho)
@@ -27,11 +29,16 @@ Se você tiver que escolher apenas um livro dessa lista, que seja:
 
 ## Podcasts
 
-- [Os Náufragos](https://soundcloud.com/osnaufragospodcast/)
+### [Os Náufragos](https://soundcloud.com/osnaufragospodcast/)
+
+- [Naufrágio Total](https://soundcloud.com/osnaufragospodcast/podcast-especial-61-naufragio-total)
+- [Naufrágio da Maturidade](https://soundcloud.com/osnaufragospodcast/podcast-especial-62-naufragio-da-maturidade)
+- [Naufrágio da Vocação](https://soundcloud.com/osnaufragospodcast/podcast-especial-63-naufragio-da-vocacao)
+- [Naufrágio dos Relacionamentos](https://soundcloud.com/osnaufragospodcast/podcast-especial-64-naufragio-dos-relacionamentos)
 
 ## Documentários
 
-### [Brasil Paralelo a última cruzada](https://brasilparalelo.com.br/)
+### [Brasil Paralelo a última cruzada](https://brasilparalelo.com.br/ultima-cruzada)
 
 - [Episódio 1 - A Cruz e a Espada](https://youtu.be/_4vxDb_j7yM)
 - [Episódio 2 - A Vila Rica](https://youtu.be/Z_rI_U_4YXY)
@@ -39,6 +46,8 @@ Se você tiver que escolher apenas um livro dessa lista, que seja:
 - [Episódio 4 - Independência ou Morte](https://youtu.be/qFVNKSCRXp0)
 - [Episódio 5 - O Último Reinado](https://youtu.be/A-qwhO9MkO0)
 - [Episódio 6 - Era Vargas: O Crepúsculo de um Ídolo](https://youtu.be/Lkm2g29JnTY)
+
+### [1964: O Brasil entre armas e livros (Filme completo)](https://brasilparalelo.com.br/regime-militar/)
 
 ### [O mal da pornografia e da masturbação](https://padrepauloricardo.org/cursos/o-mal-da-pornografia-e-da-masturbacao)
 
