@@ -11,6 +11,8 @@
     - [Brasil Paralelo a última cruzada](#brasil-paralelo-a-%C3%BAltima-cruzada)
     - [1964: O Brasil entre armas e livros (Filme completo)](#1964-o-brasil-entre-armas-e-livros-filme-completo)
     - [O mal da pornografia e da masturbação](#o-mal-da-pornografia-e-da-masturba%C3%A7%C3%A3o)
+  - [Autores](#autores)
+    - [George Orwell](#george-orwell)
   - [Filósofos](#fil%C3%B3sofos)
     - [Olavo de Carvalho](#olavo-de-carvalho)
 
@@ -56,9 +58,20 @@ Se você tiver que escolher apenas um livro dessa lista, que seja:
 - [Episódio 3 - Os efeitos na alma](https://padrepauloricardo.org/aulas/os-efeitos-na-alma)
 - [Episódio 4 -Como trilhar o caminho da restauração?](https://padrepauloricardo.org/aulas/restauracao)
 
+## Autores
+
+### George Orwell
+
+Lista de livros e podcasts/talks sobre seus livros
+
+1. [Animal Farm](https://en.wikipedia.org/wiki/Animal_Farm)
+   * [A Revolução dos Bichos e a guerra das novilínguas modernas](https://soundcloud.com/osnaufragospodcast/podcast-45-a-revolucao-dos-bichos-e-a-guerra-das-novilinguas-modernas)
+1. [1984](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four)
+   * [Novilíngua e horizonte de consciência](https://youtu.be/VWyDUbFEJF8)
+
 ## Filósofos
 
-### [Olavo de Carvalho](#olavo)
+### Olavo de Carvalho
 
 Antes de reclamar do Olavo aqui na lista o mínimo que você precisa ler/ouvir:
 
