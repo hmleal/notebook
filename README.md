@@ -4,16 +4,18 @@
 
 - [notebook](#notebook)
   - [Livros](#livros)
-    - [Política/Brasil](#pol%C3%ADticabrasil)
+    - [Política/Brasil](#pol%c3%adticabrasil)
+    - [Religião/Teologia](#religi%c3%a3oteologia)
   - [Podcasts](#podcasts)
-    - [Os Náufragos](#os-n%C3%A1ufragos)
-  - [Documentários](#document%C3%A1rios)
-    - [Brasil Paralelo a última cruzada](#brasil-paralelo-a-%C3%BAltima-cruzada)
+    - [Os Náufragos](#os-n%c3%a1ufragos)
+    - [Doctor Marshall - Show](#doctor-marshall---show)
+  - [Documentários](#document%c3%a1rios)
+    - [Brasil Paralelo a última cruzada](#brasil-paralelo-a-%c3%baltima-cruzada)
     - [1964: O Brasil entre armas e livros (Filme completo)](#1964-o-brasil-entre-armas-e-livros-filme-completo)
-    - [O mal da pornografia e da masturbação](#o-mal-da-pornografia-e-da-masturba%C3%A7%C3%A3o)
+    - [O mal da pornografia e da masturbação](#o-mal-da-pornografia-e-da-masturba%c3%a7%c3%a3o)
   - [Autores](#autores)
     - [George Orwell](#george-orwell)
-  - [Filósofos](#fil%C3%B3sofos)
+  - [Filósofos](#fil%c3%b3sofos)
     - [Olavo de Carvalho](#olavo-de-carvalho)
 
 - - -
@@ -29,14 +31,29 @@ Se você tiver que escolher apenas um livro dessa lista, que seja:
 - [Pare de Acreditar no Governo - Bruno Garschagen](https://www.amazon.com.br/Pare-Acreditar-Governo-Brasileiros-Pol%C3%ADticos/dp/8501103624)
 - [Por que o Brasil É Um País Atrasado? - Luiz Philippe De Orleans E Bragança](https://www.amazon.com.br/Por-que-Brasil-Pa%C3%ADs-Atrasado/dp/8581638643)
 
+### Religião/Teologia
+
+- [Infiltration: The Plot to Destroy the Church from Within](https://www.amazon.co.uk/Infiltration-Plot-Destroy-Church-Within/dp/1622828461/ref=sr_1_1?crid=1DB5RKLXJM5F9&keywords=taylor+marshall&qid=1568369707&sprefix=Taylor+Marsh%2Caps%2C159&sr=8-1)
+
 ## Podcasts
 
 ### [Os Náufragos](https://soundcloud.com/osnaufragospodcast/)
+
+Episódios recomendados:
 
 - [Naufrágio Total](https://soundcloud.com/osnaufragospodcast/podcast-especial-61-naufragio-total)
 - [Naufrágio da Maturidade](https://soundcloud.com/osnaufragospodcast/podcast-especial-62-naufragio-da-maturidade)
 - [Naufrágio da Vocação](https://soundcloud.com/osnaufragospodcast/podcast-especial-63-naufragio-da-vocacao)
 - [Naufrágio dos Relacionamentos](https://soundcloud.com/osnaufragospodcast/podcast-especial-64-naufragio-dos-relacionamentos)
+
+### [Doctor Marshall - Show](https://taylormarshall.com/)
+
+Episódios recomendados:
+
+- [Did You Miss God’s Plan for Your Life?](https://taylormarshall.com/2014/01/did-you-miss-gods-plan-for-your-life-podcast-21.html)
+- [Fatima-1: First Secret of Fatima: Does Hell Exist?](https://taylormarshall.com/2018/10/7868.html)
+- [Fatima-2: Second Secret of Fatima: Did Pope Consecrate Russia?](https://taylormarshall.com/2018/11/174-second-secret-fatima-pope-consecrate-russia-fatima-2-podcast.html)
+- [Fatima-3: Third Secret of Fatima: Who is the Bishop in White?](https://taylormarshall.com/2018/11/175-third-secret-fatima-bishop-white-podcast.html)
 
 ## Documentários
 
