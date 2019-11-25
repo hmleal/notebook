@@ -13,6 +13,8 @@
     - [Brasil Paralelo a última cruzada](#brasil-paralelo-a-%c3%baltima-cruzada)
     - [1964: O Brasil entre armas e livros (Filme completo)](#1964-o-brasil-entre-armas-e-livros-filme-completo)
     - [O mal da pornografia e da masturbação](#o-mal-da-pornografia-e-da-masturba%c3%a7%c3%a3o)
+  - [Tópicos](#t%c3%b3picos)
+    - [Low carb](#low-carb)
   - [Autores](#autores)
     - [George Orwell](#george-orwell)
   - [Filósofos](#fil%c3%b3sofos)
@@ -74,6 +76,14 @@ Episódios recomendados:
 - [Episódio 2 - A pornografia mata o amor](https://padrepauloricardo.org/aulas/a-pornografia-mata-o-amor)
 - [Episódio 3 - Os efeitos na alma](https://padrepauloricardo.org/aulas/os-efeitos-na-alma)
 - [Episódio 4 -Como trilhar o caminho da restauração?](https://padrepauloricardo.org/aulas/restauracao)
+
+## Tópicos
+
+### Low carb
+
+Lista de links e informacões essenciais
+
+- [Entrevista sobre low carb com Doutor Souto](https://youtu.be/uS5Jrtf6dO4)
 
 ## Autores
 
