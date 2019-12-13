@@ -13,6 +13,7 @@
     - [Brasil Paralelo a última cruzada](#brasil-paralelo-a-%c3%baltima-cruzada)
     - [1964: O Brasil entre armas e livros (Filme completo)](#1964-o-brasil-entre-armas-e-livros-filme-completo)
     - [O mal da pornografia e da masturbação](#o-mal-da-pornografia-e-da-masturba%c3%a7%c3%a3o)
+  - [Palestras](#palestras)
   - [Tópicos](#t%c3%b3picos)
     - [Low carb](#low-carb)
   - [Autores](#autores)
@@ -76,6 +77,10 @@ Episódios recomendados:
 - [Episódio 2 - A pornografia mata o amor](https://padrepauloricardo.org/aulas/a-pornografia-mata-o-amor)
 - [Episódio 3 - Os efeitos na alma](https://padrepauloricardo.org/aulas/os-efeitos-na-alma)
 - [Episódio 4 -Como trilhar o caminho da restauração?](https://padrepauloricardo.org/aulas/restauracao)
+
+## Palestras
+
+- [O dever de educar-se / Rafael Falcón](https://youtu.be/NmZuxxW0h2g)
 
 ## Tópicos
 
