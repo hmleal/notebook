@@ -81,6 +81,7 @@ Episódios recomendados:
 ## Palestras
 
 - [O dever de educar-se / Rafael Falcón](https://youtu.be/NmZuxxW0h2g)
+- [Por que os humanos estão acabando? / Caio Perozzo](https://youtu.be/U3BNsXZsRKo)
 
 ## Tópicos
 
