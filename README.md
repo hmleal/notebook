@@ -2,28 +2,7 @@
 
 > Minha lista de livros, podcasts e textos interessantes sobre todos os assuntos
 
-- [notebook](#notebook)
-  - [Livros](#livros)
-    - [Política/Brasil](#pol%c3%adticabrasil)
-    - [Religião/Teologia](#religi%c3%a3oteologia)
-  - [Podcasts](#podcasts)
-    - [Os Náufragos](#os-n%c3%a1ufragos)
-    - [Doctor Marshall - Show](#doctor-marshall---show)
-  - [Documentários](#document%c3%a1rios)
-    - [Brasil Paralelo a última cruzada](#brasil-paralelo-a-%c3%baltima-cruzada)
-    - [1964: O Brasil entre armas e livros (Filme completo)](#1964-o-brasil-entre-armas-e-livros-filme-completo)
-    - [O mal da pornografia e da masturbação](#o-mal-da-pornografia-e-da-masturba%c3%a7%c3%a3o)
-  - [Palestras](#palestras)
-  - [Tópicos](#t%c3%b3picos)
-    - [Low carb](#low-carb)
-  - [Autores](#autores)
-    - [George Orwell](#george-orwell)
-  - [Filósofos](#fil%c3%b3sofos)
-    - [Olavo de Carvalho](#olavo-de-carvalho)
-
-- - -
-
-## Livros
+## 📚 Livros
 
 Se você tiver que escolher apenas um livro dessa lista, que seja:
 
@@ -38,7 +17,11 @@ Se você tiver que escolher apenas um livro dessa lista, que seja:
 
 - [Infiltration: The Plot to Destroy the Church from Within](https://www.amazon.co.uk/Infiltration-Plot-Destroy-Church-Within/dp/1622828461/ref=sr_1_1?crid=1DB5RKLXJM5F9&keywords=taylor+marshall&qid=1568369707&sprefix=Taylor+Marsh%2Caps%2C159&sr=8-1)
 
-## Podcasts
+### História
+
+- [How the Catholic Church Built Western Civilization](https://www.goodreads.com/book/show/313011.How_the_Catholic_Church_Built_Western_Civilization)
+
+## 🎤 Podcasts
 
 ### [Os Náufragos](https://soundcloud.com/osnaufragospodcast/)
 
