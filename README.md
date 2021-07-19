@@ -94,3 +94,8 @@ Antes de reclamar do Olavo aqui na lista o mínimo que você precisa ler/ouvir:
 - [O mínimo que você precisa saber para não ser um imbecil juvenil](https://soundcloud.com/osnaufragospodcast/podcast-55-o-minimo-que-voce-precisa-saber-para-nao-ser-um-imbecil-juvenil)
 - [O imbecil juvenil](http://www.olavodecarvalho.org/textos/juvenil.htm)
 - [O abandono dos ideais](http://www.olavodecarvalho.org/apostilas/ideais.htm)
+
+### William Lane Craig
+
+- [Pints With Aquinas #190 | Interview with William Lane Craig](https://youtu.be/YURCo2Hdapo)
+- [Does God Exist? William Lane Craig vs. Christopher Hitchens](https://youtu.be/0tYm41hb48o)
