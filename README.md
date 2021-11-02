@@ -63,7 +63,8 @@ Episódios recomendados:
 
 ## Palestras
 
-- [O dever de educar-se / Rafael Falcón](https://youtu.be/NmZuxxW0h2g)
+- [Rafael Falcón - O dever de educar-se](https://youtu.be/NmZuxxW0h2g)
+- [Rafael Falcón - O Latim não é uma língua](https://youtu.be/Ab0f_NJ3Tsg)
 - [Por que os humanos estão acabando? / Caio Perozzo](https://youtu.be/U3BNsXZsRKo)
 
 ## Tópicos
