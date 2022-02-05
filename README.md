@@ -6,7 +6,7 @@
 
 Se você tiver que escolher apenas um livro dessa lista, que seja:
 
-- [How to read a book - J. Adler](https://www.amazon.co.uk/How-Read-Book-Intelligent-Touchstone/dp/0671212095/ref=sr_1_1?ie=UTF8&qid=1551784658&sr=8-1&keywords=how+to+read+a+book)
+- [How to read a book - J. Adler](https://amzn.to/34AEa0U)
 
 ### Política/Brasil
 
@@ -15,7 +15,8 @@ Se você tiver que escolher apenas um livro dessa lista, que seja:
 
 ### Religião/Teologia
 
-- [Infiltration: The Plot to Destroy the Church from Within](https://www.amazon.co.uk/Infiltration-Plot-Destroy-Church-Within/dp/1622828461/ref=sr_1_1?crid=1DB5RKLXJM5F9&keywords=taylor+marshall&qid=1568369707&sprefix=Taylor+Marsh%2Caps%2C159&sr=8-1)
+- [Mere Christianity](https://amzn.to/34AJ7a6)
+- [Infiltration: The Plot to Destroy the Church from Within](https://amzn.to/3HtFPE8)
 
 ### História
 
